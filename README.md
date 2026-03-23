@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hola! Soy Paul Sarmiento
 
-<!--
-**PaulSB2525/PaulSB2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enfocado en el desarrollo de software y apasionado por el Internet de las Cosas (IoT) y la FinTech. Actualmente curso la carrera de Ingeniería en Tecnologías Computacionales en el Tecnológico de Monterrey (ITESM), Campus Guadalajara (Clase de 2028).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mí
+- Estudiante de CS con un fuerte interés en sistemas embebidos y automatización.
+- Usuario de Arch Linux.
+
+---
+
+### Mi Stack Tecnológico
+
+**Lenguajes & Web**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Hardware & IoT**
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+**Herramientas**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### Fuera de la terminal
+Cuando no estoy programando, probablemente me encuentres:
+- Jugando Tenis.
+- Investigando sobre geopolítica e historia.
+- Buscando el mejor café calidad-precio.
+- Analizando fragancias (actual favorito: Another 13).
+
+---
+
+### Mis Estadísticas de GitHub
+![Estadísticas de Paul](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=tokyonight)
+
+---
+
+### Contacto
+- LinkedIn: [linkedin.com/in/paulsarmiento](https://linkedin.com/in/tu-perfil)
+- Ubicación: Guadalajara, México
