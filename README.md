@@ -34,12 +34,6 @@ Cuando no estoy programando, probablemente me encuentres:
 
 ---
 
-### Mis Estadísticas de GitHub
-![Estadísticas de Paul](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=tokyonight)
-
----
-
 ### Contacto
 - LinkedIn: [linkedin.com/in/paulsarmiento](https://www.linkedin.com/in/paulsarm/)
 - Ubicación: Guadalajara, México
