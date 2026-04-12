@@ -25,16 +25,12 @@ Enfocado en el desarrollo de software y apasionado por el Internet de las Cosas 
 **Herramientas**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### Fuera de la terminal
 Cuando no estoy programando, probablemente me encuentres:
 - Jugando Tenis.
-- Investigando sobre geopolítica e historia.
-- Buscando el mejor café calidad-precio.
-- Analizando fragancias (actual favorito: Another 13).
 
 ---
 
@@ -45,5 +41,5 @@ Cuando no estoy programando, probablemente me encuentres:
 ---
 
 ### Contacto
-- LinkedIn: [linkedin.com/in/paulsarmiento](https://linkedin.com/in/tu-perfil)
+- LinkedIn: [linkedin.com/in/paulsarmiento](https://www.linkedin.com/in/paulsarm/)
 - Ubicación: Guadalajara, México
